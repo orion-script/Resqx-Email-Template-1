@@ -1,12 +1,11 @@
-
-import EmailTemplate from "./EmailTemplate";
+import EmailTemplate from "./components/EmailTemplate";
 
 function App() {
-  return(
+  return (
     <>
       <EmailTemplate />
     </>
   );
 }
 
-export default App
+export default App;
